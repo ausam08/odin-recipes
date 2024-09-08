@@ -1,0 +1,32 @@
+.odin-recipes-header
+{
+    
+    text-align: center;
+    font-size:100px;
+    font-family:'Courier New', Courier, monospace;
+    color:brown;
+
+}
+
+
+
+.front-page-menu a
+{
+    color:red;
+    font-size:50px;
+
+
+}
+
+.front-page-menu.two a
+{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:30px;
+
+}
+
+.front-page-menu.three a{
+
+    font-weight:bolder;
+
+}
